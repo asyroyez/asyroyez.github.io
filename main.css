@@ -230,8 +230,6 @@ nav ul {
   box-shadow: 0 0.5em 0.8em 0 hsla(0, 0%, 0%, 0.2);
 }
 
-/* .nav-item:active {} */
-
 .landing {
   height: 52vh;
   justify-content: space-evenly;
